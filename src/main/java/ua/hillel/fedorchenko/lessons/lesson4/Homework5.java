@@ -1,7 +1,5 @@
 package ua.hillel.fedorchenko.lessons.lesson4;
 
-import java.text.DecimalFormat;
-
 public class Homework5 {
     public static void main (String[] args) {
         String li = "Лі:";
