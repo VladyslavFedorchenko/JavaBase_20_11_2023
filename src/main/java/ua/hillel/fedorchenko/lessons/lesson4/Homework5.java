@@ -16,6 +16,6 @@ public class Homework5 {
         int liarmy = a*quantity + b*quantity + c*quantity;
         double minarmy = d*quantity2 + e*quantity2 + f*quantity2;
         System.out.println(li + liarmy);
-        System.out.println(min +minarmy);
+        System.out.println(min + (int)minarmy);
         }
 }
